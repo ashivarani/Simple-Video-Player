@@ -1,25 +1,20 @@
-#Simple Video Player
+# Simple Video Player
 
 A simple Android app to play videos using VideoView and MediaController.
 
-Features
+# Features
 
 Play videos from app resources (/raw folder)
 
 Play, pause, and seek controls
 
-Easy Kotlin implementation
+Simple Kotlin implementation
 
 Installation
-
-Clone the repo:
-
+# Clone the repository
 git clone https://github.com/ashivarani/Simple-Video-Player.git
 
-
-Open in Android Studio
-
-Run on an emulator or device
+# Open in Android Studio
 
 Usage
 
