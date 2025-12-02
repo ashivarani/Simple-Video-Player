@@ -1,4 +1,4 @@
-Simple Video Player
+#Simple Video Player
 
 A simple Android app to play videos using VideoView and MediaController.
 
